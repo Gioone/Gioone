@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Gioone
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Gioone/Gioone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+# Introduce
+This project is a cheat based on WPF for Plants Vs Zombies.
